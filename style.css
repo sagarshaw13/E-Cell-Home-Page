@@ -1,0 +1,30 @@
+.w-100 {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar-section {
+  height: 80px;
+}
+.nav-link {
+  color: white;
+  font-weight: bold;
+}
+.counter-section {
+  background: #333577;
+}
+.counter {
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #333577;
+}
+.col-md-4 > img:hover {
+  transform: scale(1.05);
+  transition: all 0.5s ease-in-out;
+}
+.footer-section {
+  background: #333577;
+}
